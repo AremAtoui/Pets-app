@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/AremAtoui/Pets-app/static/css/main.f072b5c2.css",
-    "main.js": "/AremAtoui/Pets-app/static/js/main.69a847ad.js",
-    "static/js/787.d4aba7ab.chunk.js": "/AremAtoui/Pets-app/static/js/787.d4aba7ab.chunk.js",
-    "index.html": "/AremAtoui/Pets-app/index.html",
-    "main.f072b5c2.css.map": "/AremAtoui/Pets-app/static/css/main.f072b5c2.css.map",
-    "main.69a847ad.js.map": "/AremAtoui/Pets-app/static/js/main.69a847ad.js.map",
-    "787.d4aba7ab.chunk.js.map": "/AremAtoui/Pets-app/static/js/787.d4aba7ab.chunk.js.map"
+    "main.css": "/Pets-app/static/css/main.f072b5c2.css",
+    "main.js": "/Pets-app/static/js/main.4a16479f.js",
+    "static/js/787.d4aba7ab.chunk.js": "/Pets-app/static/js/787.d4aba7ab.chunk.js",
+    "index.html": "/Pets-app/index.html",
+    "main.f072b5c2.css.map": "/Pets-app/static/css/main.f072b5c2.css.map",
+    "main.4a16479f.js.map": "/Pets-app/static/js/main.4a16479f.js.map",
+    "787.d4aba7ab.chunk.js.map": "/Pets-app/static/js/787.d4aba7ab.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f072b5c2.css",
-    "static/js/main.69a847ad.js"
+    "static/js/main.4a16479f.js"
   ]
 }
